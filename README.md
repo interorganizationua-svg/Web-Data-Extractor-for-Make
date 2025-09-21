@@ -12,6 +12,6 @@ It allows you to easily connect web scraping workflows with apps like Google She
 - Supports batch sending with delays to avoid overload.
 
 ---
-You need to replace the file in the script with your own when you have json, then run the script, and then get the link to your webhook in Make. 
+## 📂 HOW TO USE IT
 
-## 📂 Project structure
+You need to replace the file in the script with your own when you have json, then run the script, and then get the link to your webhook in Make. 
